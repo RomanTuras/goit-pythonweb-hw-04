@@ -1,4 +1,4 @@
-# ДЗ Тема: 4
+# HW Theme #4
 
 Create a virtual environment then install the necessary libraries
 
